@@ -55,5 +55,5 @@ Vision-language navigation (VLN) requires intelligent agents to navigate environ
 ---
 ## News
 
-「最強具身VLA大模型」，究竟強在哪兒？
-https://bangqu.com/oYj2N5.html?fbclid=IwY2xjawOQpXBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEek9Jt0G-fzZg-5lTNd5ZKsJBVJ5kvmkDXiYebvnCcanV5pG_IvN_hUDFHiDs_aem_9O0kjnNAjcOp-D93gaDlnw
+*「最強具身VLA大模型」，究竟強在哪兒？ (2025-11)
+ * https://bangqu.com/oYj2N5.html?fbclid=IwY2xjawOQpXBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEek9Jt0G-fzZg-5lTNd5ZKsJBVJ5kvmkDXiYebvnCcanV5pG_IvN_hUDFHiDs_aem_9O0kjnNAjcOp-D93gaDlnw
