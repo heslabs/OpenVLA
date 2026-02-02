@@ -7,9 +7,10 @@
 
 A simple and scalable codebase for training and fine-tuning vision-language-action models (VLAs) for generalist robotic manipulation:
 
-Different Dataset Mixtures: We natively support arbitrary datasets in RLDS format, including arbitrary mixtures of data from the Open X-Embodiment Dataset.
-Easy Scaling: Powered by PyTorch FSDP and Flash-Attention, we can quickly and efficiently train models from 1B - 34B parameters, with easily adaptable model architectures.
-Native Fine-Tuning Support: Built-in support (with examples) for various forms of fine-tuning (full, partial, LoRA).
+* Different Dataset Mixtures: We natively support arbitrary datasets in RLDS format, including arbitrary mixtures of data from the Open X-Embodiment Dataset.
+* Easy Scaling: Powered by PyTorch FSDP and Flash-Attention, we can quickly and efficiently train models from 1B - 34B parameters, with easily adaptable model architectures.
+* Native Fine-Tuning Support: Built-in support (with examples) for various forms of fine-tuning (full, partial, LoRA).
+
 Built on top of Prismatic VLMs.
 
 ---
