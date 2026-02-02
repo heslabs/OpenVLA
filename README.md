@@ -30,11 +30,6 @@ https://timm.fast.ai/
 `timm` is a deep-learning library created by Ross Wightman and is a collection of SOTA computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations and also training/validating scripts with ability to reproduce ImageNet training results.
 
 
----
-### OpenVLA - 在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
-https://blog.csdn.net/v_JULY_v/article/details/145072593
-
-<img width="650" height="596" alt="image" src="https://github.com/user-attachments/assets/54c950a7-5ca4-4733-aca0-34eceed7b2b7" />
 
  
 ---
@@ -82,6 +77,12 @@ Physical Intelligence aims for faster, more reliable robots
 The San Francisco-based company plans to use the financing to collect more data, make strategic partnerships, and grow its team. Founded in 2024, Physical Intelligence raised $400 million a year ago. 
 With foundation models, AI developers are working to make it easier for robots to learn from a variety of inputs and to generalize behaviors more quickly with smaller amounts of data than previous reinforcement learning (RL) approaches. This has implications for robot performance in unstructured environments, from retail stores to households.
 
+ 
+---
+#### OpenVLA - 在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
+https://blog.csdn.net/v_JULY_v/article/details/145072593
+
+<img width="650" height="596" alt="image" src="https://github.com/user-attachments/assets/54c950a7-5ca4-4733-aca0-34eceed7b2b7" />
 
 ---
 #### 开源机器人VLA模型-π0以及升级后的π0.6
