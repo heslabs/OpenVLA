@@ -19,11 +19,24 @@ https://github.com/TRI-ML/prismatic-vlms
 
 A flexible and efficient codebase for training visually-conditioned language-models (VLMs):
 
-* Different Visual Representations. We natively support backbones such as CLIP, SigLIP, DINOv2 – and even fusions of different backbones. Adding new backbones is easy via TIMM.
+* Different Visual Representations. We natively support backbones such as **CLIP, SigLIP, DINOv2** – and even fusions of different backbones. Adding new backbones is easy via **TIMM**.
 * Base and Instruct-Tuned Language Models. We support arbitrary instances of AutoModelForCausalLM including both base and instruct-tuned models (with built-in prompt handling) via Transformers. If your favorite LM isn't already supported, feel free to submit a PR!
 * Easy Scaling. Powered by PyTorch FSDP and Flash-Attention, we can quickly and efficiently train models from 1B - 34B parameters, on different, easily configurable dataset mixtures.
- 
 
+---
+## Pytorch Image Models (timm)
+https://timm.fast.ai/
+
+`timm` is a deep-learning library created by Ross Wightman and is a collection of SOTA computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations and also training/validating scripts with ability to reproduce ImageNet training results.
+
+
+---
+#### OpenVLA——在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
+https://blog.csdn.net/v_JULY_v/article/details/145072593
+
+<img width="650" height="596" alt="image" src="https://github.com/user-attachments/assets/54c950a7-5ca4-4733-aca0-34eceed7b2b7" />
+
+ 
 ---
 ## Open X-Embodiment Dataset
 https://robotics-transformer-x.github.io/
