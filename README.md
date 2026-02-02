@@ -31,7 +31,7 @@ https://timm.fast.ai/
 
 
 ---
-### OpenVLA——在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
+### OpenVLA - 在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
 https://blog.csdn.net/v_JULY_v/article/details/145072593
 
 <img width="650" height="596" alt="image" src="https://github.com/user-attachments/assets/54c950a7-5ca4-4733-aca0-34eceed7b2b7" />
