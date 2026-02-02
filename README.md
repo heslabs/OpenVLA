@@ -24,14 +24,14 @@ A flexible and efficient codebase for training visually-conditioned language-mod
 * Easy Scaling. Powered by PyTorch FSDP and Flash-Attention, we can quickly and efficiently train models from 1B - 34B parameters, on different, easily configurable dataset mixtures.
 
 ---
-## Pytorch Image Models (timm)
+### Pytorch Image Models (timm)
 https://timm.fast.ai/
 
 `timm` is a deep-learning library created by Ross Wightman and is a collection of SOTA computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations and also training/validating scripts with ability to reproduce ImageNet training results.
 
 
 ---
-#### OpenVLA——在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
+### OpenVLA——在Prismatic VLM(SigLIP、DinoV2、Llama 2)的架构上：基于“下一个token预测技术”预测离散化动作
 https://blog.csdn.net/v_JULY_v/article/details/145072593
 
 <img width="650" height="596" alt="image" src="https://github.com/user-attachments/assets/54c950a7-5ca4-4733-aca0-34eceed7b2b7" />
