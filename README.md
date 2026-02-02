@@ -41,7 +41,7 @@ Large, high-capacity models trained on diverse datasets have shown remarkable su
   * https://openvla-oft.github.io/
 * Our new Optimized Fine-Tuning (OFT) recipe for VLAs — which combines parallel decoding, action chunking, a continuous action representation, and L1 regression objective — significantly enhances inference speed (25-50x) and task performance (20%+ boost in success rate).
 * OpenVLA-OFT, a policy created with our fine-tuning recipe, achieves SOTA results in LIBERO: 97.1% average success rate across 4 task suites, outperforming π0, MDT, Seer, DiT Policy, Octo, and Diffusion Policy.
-* Our recipe, when augmented with FiLM for better language grounding ("OFT+"), enables high-frequency language-driven control on the bimanual ALOHA robot with a 7B-parameter VLA policy and outperforms other fine-tuned VLAs (π0 and RDT-1B) and popular imitation learning policies trained from scratch (ACT and Diffusion Policy).
+* Our recipe, when augmented with FiLM for better language grounding ("OFT+"), enables high-frequency language-driven control on the bimanual ALOHA robot with a **7B-parameter VLA policy** and outperforms other fine-tuned VLAs (**π0 and RDT-1B**) and popular imitation learning policies trained from scratch (ACT and Diffusion Policy).
 
 ---
 ## AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild
